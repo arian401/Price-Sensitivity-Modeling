@@ -21,7 +21,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r Render/requirements.txt
         pip install pytest requests
 
     - name: Run API test
