@@ -1,4 +1,4 @@
-# 💸 Price Sensitivity Modeling
+#  Price Sensitivity Modeling
 
 [![API - Render](https://img.shields.io/badge/API%20(Render)-Live-blue)](https://price-sensitivity-api.onrender.com/docs)  
 [![API - HuggingFace](https://img.shields.io/badge/API%20(HuggingFace)-Live-blue)](https://arian401-Price-Sensitivity-Modeling.hf.space/docs)  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project predicts whether a customer will **continue buying after a price increase**, helping booking platforms (e.g., Expedia, Kayak) personalize pricing in real-time.
 
@@ -15,7 +15,7 @@ It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**
 
 ---
 
-## 🚀 Live Deployments
+##  Live Deployments
 
 | Component         | URL                                                                 |
 |------------------|----------------------------------------------------------------------|
@@ -25,7 +25,7 @@ It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**
 
 ---
 
-## 📦 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -42,7 +42,7 @@ It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 - **Data:** Simulated travel customer behavior with 9 features.
 - **Model:** Logistic Regression pipeline (scikit-learn), exportable via `joblib`.
@@ -58,7 +58,7 @@ It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**
 
 ---
 
-## 📊 Sample Input (Customer)
+##  Sample Input (Customer)
 
 ```json
 {
@@ -76,7 +76,7 @@ It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**
 
 ---
 
-## ✅ Skills Demonstrated
+##  Skills Demonstrated
 
 - FastAPI and Pydantic for ML APIs  
 - Streamlit dashboarding  
@@ -88,7 +88,7 @@ It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**
 
 ---
 
-## 🧪 CI: Integration Test
+##  CI: Integration Test
 
 Every push to the repo runs `test_api.py` to confirm that:
 - The deployed `/predict` endpoint is live
@@ -106,7 +106,7 @@ Status: [GitHub Actions](https://github.com/arian401/Price-Sensitivity-Modeling/
 
 ---
 
-## 📈 Real-World Use Cases
+##  Real-World Use Cases
 
 - **Travel platforms:** Expedia, Kayak – optimize ticket prices based on user loyalty
 - **Retail apps:** Personalize discounts or upsell prices
