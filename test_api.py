@@ -1,8 +1,9 @@
 import requests
 
 def test_api_prediction():
-    #url = "https://arian401-price-optimization.hf.space/predict/"
-    url = "https://price-optimization-n20m.onrender.com/predict/"
+    #url = "https://arian401-Price-Sensitivity-Modeling.hf.space/predict/"
+    url = "https://price-sensitivity-api.onrender.com/predict/"
+
     payload = {
         "total_spent": 1000,
         "avg_order_value": 300,
