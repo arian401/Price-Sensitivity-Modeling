@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 load_dotenv()
 API_URL = os.getenv(
     "PRICE_API",
-    "https://arian401-price-optimization.hf.space/predict/",  # fallback
+    "https://arian401-Price-Sensitivity-Modeling.hf.space/predict/",  # fallback
 )
 
 app = Flask(__name__)
