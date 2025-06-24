@@ -9,9 +9,15 @@
 
 ##  Overview
 
-This project predicts whether a customer will **continue buying after a price increase**, helping booking platforms (e.g., Expedia, Kayak) personalize pricing in real-time.
+This project helps booking platforms (e.g., Expedia, Kayak) personalize prices in real-time by predicting whether a customer will **continue buying after a price increase**, and by **calculating the probability of continuation**.
 
-It combines a **FastAPI-based machine learning model**, a **Streamlit frontend**, and a **stub backend** to simulate real-world pricing engines.
+It goes beyond modeling by:
+
+- Adjusting the price (+10%) dynamically for customers likely to tolerate higher prices
+- Simulating a production pricing engine via a stub backend
+- Providing ready-to-use API integration logic for real-world booking systems
+
+The project combines a **FastAPI-based machine learning model**, a **Streamlit dashboard**, and a **Flask backend simulation**, illustrating how real-time ML pipelines work in e-commerce or travel platforms.
 
 ---
 
