@@ -1,4 +1,4 @@
-#  Price Sensitivity Modeling
+#  ML-Driven Price Optimization for Travel and E-Commerce
 
 [![API - Render](https://img.shields.io/badge/API%20(Render)-Live-blue)](https://price-sensitivity-api.onrender.com/docs)  
 [![API - HuggingFace](https://img.shields.io/badge/API%20(HuggingFace)-Live-blue)](https://arian401-Price-Sensitivity-Modeling.hf.space/docs)  
