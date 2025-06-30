@@ -4,7 +4,7 @@
 [![API - HuggingFace](https://img.shields.io/badge/API%20(HuggingFace)-Live-blue)](https://arian401-Price-Sensitivity-Modeling.hf.space/docs)  
 [![Streamlit App](https://img.shields.io/badge/Streamlit%20App-Live-green)](https://huggingface.co/spaces/Arian401/Price-Sensitivity-Streamlit-App)  
 [![GitHub Actions](https://github.com/arian401/Price-Sensitivity-Modeling/actions/workflows/test.yml/badge.svg)](https://github.com/arian401/Price-Sensitivity-Modeling/actions)
-[**Video Demonstration**](https://youtu.be/T-04meHX3Bw)
+[![Video Demonstration](https://img.shields.io/badge/Video-Demonstration-red)](https://youtu.be/T-04meHX3Bw)
 ---
 
 ##  Overview
